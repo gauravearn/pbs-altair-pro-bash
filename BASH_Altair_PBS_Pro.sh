@@ -1,3 +1,8 @@
+#Gaurav Sablok 
+#Senior Postdoctoral Fellow Faculty of Natural and Agricultural Sciences 
+#Room 7-35, Agricultural Sciences Building 
+#University of Pretoria, Private Bag X20 Hatfield 0028, 
+#South Africa 
 #!/bin/bash
 PS3 = "Altair PBS Pro Manual at hand (#)? "; \
 select i in qsub qdel qhold qrls qmove qstat qselect qalter; do
