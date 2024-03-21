@@ -1,8 +1,7 @@
-#Gaurav Sablok 
-#Senior Postdoctoral Fellow Faculty of Natural and Agricultural Sciences 
-#Room 7-35, Agricultural Sciences Building 
-#University of Pretoria, Private Bag X20 Hatfield 0028, 
-#South Africa 
+# Universitat Potsdam
+# Date: 2024-3-21
+# updated: 2024-3-20
+# Author: Gaurav Sablok
 #!/bin/bash
 PS3 = "Altair PBS Pro Manual at hand (#)? "; \
 select i in qsub qdel qhold qrls qmove qstat qselect qalter; do
